@@ -1,0 +1,22 @@
+ .table1 table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
+ .table1 th, td {
+  padding: 15px;
+  text-align: left;
+  }
+  .table1 {
+  width: 50%;
+  background-color: #ffa263;
+  }
+  .table1 {
+    margin: 0px auto;
+  }
+  .list1 {
+  list-style-type: square;
+  }
+  .paragraph1 {
+   color:green;
+   text-align:center;
+  }
